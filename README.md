@@ -1,2 +1,3 @@
 # GPT-3
-AI project website
+
+**The possibilities are beyond your imagination**
